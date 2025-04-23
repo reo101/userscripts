@@ -9,7 +9,7 @@
 // @source      https://github.com/reo101/userscripts/blob/master/nixpkgs.js
 // @supportURL  https://github.com/reo101/userscripts/issues
 // @homepage    https://github.com/reo101/userscripts/
-// @icon        https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nix-snowflake.svg
+// @icon        https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg
 //
 // @namespace   reo101
 // @match       *://*.github.com/NixOS/nixpkgs/pull/*
